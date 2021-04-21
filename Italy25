@@ -1,0 +1,203 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Music;Undefined",(ONLINE) M2o Tv,M2O TV,m2o TV (Music)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",20 MEDIASET FHD
+http://ip365.cx:80/591479399642519/845556651954303/194178?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",20 MEDIASET HD
+http://ip365.cx:80/591479399642519/845556651954303/194411?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",20 MEDIASET HEVC
+http://ip365.cx:80/591479399642519/845556651954303/194179?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",4E
+http://pn.tvott.info:80/307216011400/307216011400/160023?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",4E TV
+http://95.214.232.251:8080/ricky123/ricky123/155219?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",4E TV
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137132?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="Undefined",51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",ACTION 24
+http://95.214.232.251:8080/ricky123/ricky123/155211?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",ALERT HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136971?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",ALICE HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2892?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",ALICE+MARCOPOLO HD
+http://ip365.cx:80/591479399642519/845556651954303/194426?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",ANIMAL PLANET
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137109?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2814?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",ANT 1 HD
+http://95.214.232.251:8080/ricky123/ricky123/155124?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",ANT 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136970?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",ANT1 SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137135?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",ART TV
+http://95.214.232.251:8080/ricky123/ricky123/155222?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",AUTO MOTO TV
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3907?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",Action 24
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137003?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",Action 24 HD
+http://pn.tvott.info:80/307216011400/307216011400/160065?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",Action 24 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137055?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Alert Channel
+http://95.214.232.251:8080/ricky123/ricky123/155223?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Alfa
+http://95.214.232.251:8080/ricky123/ricky123/155224?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Alice
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2771?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Alpha TV HD
+http://95.214.232.251:8080/ricky123/ricky123/155125?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Alto Adige
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/28438?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Animal Planet
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2770?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Y1Yq3iV.png" group-title="Undefined",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Aurora Arte
+http://ip365.cx:80/591479399642519/845556651954303/168151?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Aurora Arte (New!)
+http://goodtv.xyz:2052/Mike/Mike123/2456256?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",Axeloos TV
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137052?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png" group-title="Undefined",Azzurra TV
+https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Azzurra TV SD
+http://ip365.cx:80/591479399642519/845556651954303/388277?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",BABY TV
+http://95.214.232.251:8080/ricky123/ricky123/155212?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",BABY TV HD
+http://ip365.cx:80/591479399642519/845556651954303/194477?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",BARAZA TV HD Greek hits
+http://95.214.232.251:8080/ricky123/ricky123/155227?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2777?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",BOING HD
+http://ip365.cx:80/591479399642519/845556651954303/194478?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",Baby TV
+http://pn.tvott.info:80/307216011400/307216011400/160026?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",Bob Spong
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/57949?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Boing
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2768?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Boing
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/28458?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CACCIA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3910?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CALCIO 01 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3893?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CALCIO 04 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3896?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CALCIO 05 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3897?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CALCIO 06 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3898?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CAMPANE GOLD 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/28403?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CANALE 5 FHD
+http://ip365.cx:80/591479399642519/845556651954303/194164?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2779?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CANALE 5 HD
+http://ip365.cx:80/591479399642519/845556651954303/194398?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CANALE 5 HEVC
+http://ip365.cx:80/591479399642519/845556651954303/194165?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CARTOON NETWORK HD
+http://ip365.cx:80/591479399642519/845556651954303/194481?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CARTOONITO
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2780?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CARTOONITO HD
+http://ip365.cx:80/591479399642519/845556651954303/194479?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",CHANNEL 9 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137051?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2805?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CINE 34 FHD
+http://ip365.cx:80/591479399642519/845556651954303/194191?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CINE 34 HD
+http://ip365.cx:80/591479399642519/845556651954303/194442?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CINE 34 HEVC
+http://ip365.cx:80/591479399642519/845556651954303/194192?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",COMEDY CENTRAL HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3908?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",COSMOTE CINEMA 2 FHD
+http://95.214.232.251:8080/ricky123/ricky123/155254?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",CRETA HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136959?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CRETA TV
+http://95.214.232.251:8080/ricky123/ricky123/155230?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CRIME INVESTIGATION
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3905?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CRIME INVESTIGATION FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/265011420?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CRIME INVESTIGATION HD
+http://ip365.cx:80/591479399642519/845556651954303/194427?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Caccia e Pesca
+http://goodtv.xyz:2052/Mike/Mike123/2456174?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="Undefined",CafÃ¨TV24
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",CafÃ¨TV24 HD
+http://ip365.cx:80/591479399642519/845556651954303/388276?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Canale 10
+http://ip365.cx:80/591479399642519/845556651954303/168160?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Canale 10 Ostia
+http://goodtv.xyz:2052/Mike/Mike123/2456264?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Canale 2 Altamura
+http://goodtv.xyz:2052/Mike/Mike123/2456217?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Undefined",Canale 2 Altamura,IT | Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Undefined",Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Canale 2 Altamura
+http://goodtv.xyz:2052/Mike/Mike123/2456261?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Undefined",Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Canale 2 Altamura SD
+http://ip365.cx:80/591479399642519/845556651954303/388275?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Canale 5
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2769?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Canale 7
+http://ip365.cx:80/591479399642519/845556651954303/168158?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Canale 8
+http://goodtv.xyz:2052/Mike/Mike123/2456220?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Canale 8
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Canale 8
+http://goodtv.xyz:2052/Mike/Mike123/2456171?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Canale 8 SD
+http://ip365.cx:80/591479399642519/845556651954303/388274?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",Cannali Music
+http://pn.tvott.info:80/307216011400/307216011400/160062?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="Undefined",Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Carina TV
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Carina TV (Basilicata)
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/28421?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Carina TV HD
+http://ip365.cx:80/591479399642519/845556651954303/168165?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Cartoon Network HD
+http://goodtv.xyz:2052/Mike/Mike123/2456189?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Cartoonito
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2767?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Cielo
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2766?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Corfu Channel
+http://95.214.232.251:8080/ricky123/ricky123/155229?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Undefined;ITALY",Cosmote Cinema 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137050?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Cosmote Sport 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/155199?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Sport",Cosmote Sport 3 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137046?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR;IT" tvg-logo="" group-title="Sport",Cosmote Sport 4 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137045?checkedby:hlscat.com
+
