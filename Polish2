@@ -1,0 +1,128 @@
+
+
+    #EXTM3U
+    #EXTINF:-1,Polsat News 2
+    http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
+    #EXTINF:-1,Superstacja
+    http://hls.redefine.pl/97100F84/1577/0/hls576/masterlist.m3u8
+    #EXTINF:-1,Polsat Crime Investigation
+    http://hls.redefine.pl/4C97F3A2/11306/0/hls576/masterlist.m3u8
+    #EXTINF:-1,Viasat Nature
+    http://hls.redefine.pl/27D4F385/4195/0/hls576/masterlist.m3u8
+    #EXTINF:-1,TV Okazje
+    http://hls.redefine.pl/AAB4C704/13921/0/tvhd/tvhd/list.m3u8
+    #EXTINF:-1,TV Republika
+    https://redir.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+    #EXTINF:-1,TV Trwam
+    https://trwamtv.live.rd.insyscd.net/cl01/out/u/trwam.m3u8
+    #EXTINF:-1,Dla Ciebie
+    http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
+    #EXTINF:-1,TV Imperium
+    https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
+    #EXTINF:-1,TVT Telewizja regionalna
+    http://176.107.129.219/media/tvt/index.m3u8
+    #EXTINF:-1,Sfera TV
+    http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+    #EXTINF:-1,TV Kujawy
+    http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+    #EXTINF:-1,TVT Zgorzelec
+    http://gargoyle.tomkow.pl/hls/tvt.m3u8
+    #EXTINF:-1,TV Pogranicze
+    http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
+    #EXTINF:-1,Twoja TV
+    http://94.246.169.19/ttv_hls/live_360p/index.m3u8
+    #EXTINF:-1,m20 TV
+    http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+    #EXTINF:-1,Radio Number One TV
+    http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+    #EXTINF:-1,DeeJay TV
+    http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+    #EXTINF:-1,Music Box
+    http://212.26.132.86/hls/mb_ua.m3u8
+    #EXTINF:-1,Radio Bruno
+    http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+    #EXTINF:-1,VISUAL RADIO
+    http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+    #EXTINF:-1,Radio 51 TV
+    http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+    #EXTINF:-1,Retro TV
+    http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+    #EXTINF:-1,Radio Italia Vision
+    http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+    #EXTINF:-1,Trace Mziki
+    http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+    #EXTINF:-1,Trace Africa
+    https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+    #EXTINF:-1,Trace Tropical
+    https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+    #EXTINF:-1,AKC TV
+    https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+    #EXTINF:-1,English Club TV
+    http://ott-cdn.ucom.am/s37/index.m3u8
+    #EXTINF:-1,Three
+    http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+    #EXTINF:-1,Red Bull TV
+    https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+    #EXTINF:-1,Stadium
+    https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+    #EXTINF:-1,ID Fashion HD
+    http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+    #EXTINF:-1,Fashion TV SK
+    http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+    #EXTINF:-1,Fashion TV Paris
+    https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+    #EXTINF:-1,Fashion TV Midnight Secrets
+    https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+    #EXTINF:-1,Jasmin TV
+    http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+    #EXTINF:-1,Bloomberg TV US
+    https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+    #EXTINF:-1,Bloomberg TV UK
+    http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+    #EXTINF:-1,Sky News
+    http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+    #EXTINF:-1,CBS News
+    http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+    #EXTINF:-1,France 24 ENG
+    http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+    #EXTINF:-1,DW English
+    http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+    #EXTINF:-1,NBC
+    http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+    #EXTINF:-1,TRT World
+    http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+    #EXTINF:-1,The Weather Channel
+    http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+    #EXTINF:-1,Weather Nation
+    http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+    #EXTINF:-1,Deutsche Welle
+    http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+    #EXTINF:-1,tagesschau24
+    http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+    #EXTINF:-1,WDR Fernsehen
+    http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+    #EXTINF:-1,Noa 4 Hamburg
+    http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+    #EXTINF:-1,GONG MAX
+    http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+    #EXTINF:-1,TV5 Monde Info
+    http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+    #EXTINF:-1,CGTN FR
+    http://live.cgtn.com/1000f/prog_index.m3u8
+    #EXTINF:-1,Rai 4
+    http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+    #EXTINF:-1,Rai Premium
+    http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+    #EXTINF:-1,Rai Movie
+    http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+    #EXTINF:-1,RBC RU
+    http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+    #EXTINF:-1,Astrakhan 24
+    http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+    #EXTINF:-1,112 Ukraine
+    http://app.live.112.events/hls/112hd_mid/index.m3u8
+    #EXTINF:-1,Novyj Mir
+    http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+    #EXTINF:-1,Academy
+    http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8
+
