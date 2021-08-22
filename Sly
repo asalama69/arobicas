@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1,Publika HD
+http://vsd0.mycdn.me/hls/104746257081_high/index.m3u8
+#EXTINF:-1,Архыз 24 HD
+http://vsd0.mycdn.me/hls/117964933828_high/index.m3u8
+#EXTINF:-1,Hit TV HD
+http://vsd0.mycdn.me/hls/110611729035_high/index.m3u8
+#EXTINF:-1,UBR
+http://194.165.46.18:8000/play/a02y
+#EXTINF:-1,LALE
+http://194.165.46.18:8000/play/a00l
+#EXTINF:-1,Fauna
+http://194.165.46.18:8000/play/a031
+#EXTINF:-1,Explore/Spice(FSS)
+http://194.165.46.18:8000/play/a02s
+#EXTINF:-1,FOOTBALL1
+http://194.165.46.18:8000/play/a00r
+#EXTINF:-1,KVARTAL TV
+http://194.165.46.18:8000/play/a03e
+#EXTINF:-1,UA:
+http://194.165.46.18:8000/play/a02q
+#EXTINF:-1,Uzhgorod 21
+http://194.165.46.18:8000/play/a03c
+#EXTINF:-1,Food Network (XtraTV UA)
+http://194.165.46.18:8000/play/a01d
+#EXTINF:-1,Espreso TV
+http://194.165.46.18:8000/play/a021
+#EXTINF:-1,Donbass
+http://194.165.46.18:8000/play/a00s
+#EXTINF:-1,Інфоканал Рахів
+http://194.165.46.18:8000/play/a03b
+#EXTINF:-1,Indigo
+http://194.165.46.18:8000/play/a00y
+#EXTINF:-1,KDR TRK
+http://194.165.46.18:8000/play/a02d
+#EXTINF:-1,PIXEL
+http://194.165.46.18:8000/play/a009
+#EXTINF:-1,Black Sea TV
+http://194.165.46.18:8000/play/a003
+#EXTINF:-1,Kiev TV
+http://194.165.46.18:8000/play/a03d
+#EXTINF:-1,MAXXI TV
+http://194.165.46.18:8000/play/a00m
+#EXTINF:-1,Fine Living (XtraTV UA)
+http://194.165.46.18:8000/play/a01c
+#EXTINF:-1,History (XtraTV UA)
+http://194.165.46.18:8000/play/a01b
+#EXTINF:-1,M-Studio
+http://194.165.46.18:8000/play/a038
+#EXTINF:-1,RADA
+http://194.165.46.18:8000/play/a023
+#EXTINF:-1,KIEV STB
+http://194.165.46.18:8000/play/a02g
+#EXTINF:-1,TET
+http://194.165.46.18:8000/play/a01v
+#EXTINF:-1,Plus Plus
+http://194.165.46.18:8000/play/a01z
+#EXTINF:-1,112 UkraineHD
+http://194.165.46.18:8000/play/a02f
+#EXTINF:-1,Enter Film
+http://194.165.46.18:8000/play/a00a
+#EXTINF:-1,UTR
+http://194.165.46.18:8000/play/a01n
+#EXTINF:-1,SONCE (UA)
+http://194.165.46.18:8000/play/a00e
+#EXTINF:-1,Trofey
+http://194.165.46.18:8000/play/a037
+#EXTINF:-1,SPORT TV + HD
+http://213.58.197.150:8000/play/sportv+t
+#EXTINF:-1,TVSERIES HD
+http://213.58.197.150:8000/play/tvseriest
+#EXTINF:-1,RTP 1
+http://213.58.197.150:8000/play/rtp1t
+#EXTINF:-1,PORTO CANAL HD
+http://213.58.197.150:8000/play/portocanalt
+#EXTINF:-1,TVI
+http://213.58.197.150:8000/play/tvit
+#EXTINF:-1,SIC CARAS HD
+http://213.58.197.150:8000/play/siccarast
+#EXTINF:-1,TVI 24
+http://213.58.197.150:8000/play/tvi24t
+#EXTINF:-1,AXN HD
+http://213.58.197.150:8000/play/axnhdt
+#EXTINF:-1,TVCINE 4 HD
+http://213.58.197.150:8000/play/tvcine4t
+#EXTINF:-1,HOLLYWOOD HD
+http://213.58.197.150:8000/play/hollywoodhdt
+#EXTINF:-1,RTP 3
+http://213.58.197.150:8000/play/rtp3t
+#EXTINF:-1,TVI REALITY
+http://213.58.197.150:8000/play/tvirealityt
+#EXTINF:-1,SPORT TV 1 HD
+http://213.58.197.150:8000/play/a00v
+#EXTINF:-1,MOV HD
+http://213.58.197.150:8000/play/movhdt
+#EXTINF:-1,RTP 2
+http://213.58.197.150:8000/play/rtp2t
+#EXTINF:-1,CM TV HD
+http://213.58.197.150:8000/play/cmtvt
+#EXTINF:-1,TVCINE 2 HD
+http://213.58.197.150:8000/play/tvcine2t
+#EXTINF:-1,TVCINE 1 HD
+http://213.58.197.150:8000/play/tvcine1t
+#EXTINF:-1,SIC NOTICIAS HD
+http://213.58.197.150:8000/play/sicnoticiast
+#EXTINF:-1,SIC MULHER HD
+http://213.58.197.150:8000/play/sicmulhert
+#EXTINF:-1,TVCINE 3 HD
+http://213.58.197.150:8000/play/tvcine3t
+#EXTINF:-1,SIC HD
+http://213.58.197.150:8000/play/sict
