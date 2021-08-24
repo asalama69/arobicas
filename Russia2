@@ -1,0 +1,180 @@
+#EXTM3U
+#EXTINF: 0,00 
+Приятного Просмотра!!!!
+#EXTINF:0,01  Первый канал
+http://sovok.tv/api.php?channel=1&name=Первый канал#
+#EXTINF:0,02  НТВ
+http://sovok.tv/api.php?channel=4&name=НТВ#
+#EXTINF:0,03  MTV
+http://sovok.tv/api.php?channel=6&name=MTV#
+#EXTINF:0,04  5 канал 
+http://sovok.tv/api.php?channel=10&name=5 канал#
+#EXTINF:0,05  Муз тв 
+http://sovok.tv/api.php?channel=11&name=Муз тв#
+#EXTINF:0,06  тв 3 
+http://sovok.tv/api.php?channel=12&name=тв 3#
+#EXTINF:0,07  Россия 2 
+http://sovok.tv/api.php?channel=13&name=Россия 2#
+#EXTINF:0,08  7 тв
+http://sovok.tv/api.php?channel=14&name=7 тв#
+#EXTINF:0,09  Россия К
+http://sovok.tv/api.php?channel=15&name=Россия К#
+#EXTINF:0,010  2Х2
+http://sovok.tv/api.php?channel=16&name=2Х2#
+#EXTINF:0,011  Style
+http://sovok.tv/api.php?channel=17&name=Style#
+#EXTINF:0,012  A - One
+http://sovok.tv/api.php?channel=18&name=A - One#
+#EXTINF:0,013  Домашний
+http://sovok.tv/api.php?channel=19&name=Домашний#
+#EXTINF:0,014  ДТВ
+http://sovok.tv/api.php?channel=20&name=ДТВ#
+#EXTINF:0,015  Мир
+http://sovok.tv/api.php?channel=21&name=Мир#
+#EXTINF:0,016  Звезда
+http://sovok.tv/api.php?channel=22&name=Звезда#
+#EXTINF:0,017  Euro news
+http://sovok.tv/api.php?channel=23&name=Euro news#
+#EXTINF:0,018  Моя планета 
+http://sovok.tv/api.php?channel=24&name=Моя планета#
+#EXTINF:0,019 Discovery channel 
+http://sovok.tv/api.php?channel=25&name=Discovery channel#
+#EXTINF:0,020 Anmal Planet 
+http://sovok.tv/api.php?channel=26&name=Anmal Planet#
+#EXTINF:0,021 National Geographic 
+http://sovok.tv/api.php?channel=27&name=National Geographic#
+#EXTINF:0,022 DW-TV
+http://sovok.tv/api.php?channel=28&name=DW-TV#
+#EXTINF:0,023 CNN
+http://sovok.tv/api.php?channel=29&name=CNN#
+#EXTINF:0,024 France 24
+http://sovok.tv/api.php?channel=30&name=France 24#
+#EXTINF:0,025 Russia Today
+http://sovok.tv/api.php?channel=31&name=Russia Today#
+#EXTINF:0,026 РБК-ТВ
+http://sovok.tv/api.php?channel=32&name=РБК-ТВ#
+#EXTINF:0,027 Эксперт
+http://sovok.tv/api.php?channel=33&name=Эксперт#
+#EXTINF:0,028 ТВ 1000
+http://sovok.tv/api.php?channel=34&name=ТВ 1000#
+#EXTINF:0,029 ТВ 1000 ru
+http://sovok.tv/api.php?channel=35&name=ТВ 1000 ru#
+#EXTINF:0,030 Иллюзион +
+http://sovok.tv/api.php?channel=36&name=Иллюзион +#
+#EXTINF:0,031  Русский Иллюзион 
+http://sovok.tv/api.php?channel=37&name=Русский Иллюзион#
+#EXTINF:0,032  НСТВ
+http://sovok.tv/api.php?channel=38&name=НСТВ#
+#EXTINF:0,033  Дива юниверсал
+http://sovok.tv/api.php?channel=39&name=Дива юниверсал#
+#EXTINF:0,034  Action 1000
+http://sovok.tv/api.php?channel=40&name=Action 1000#
+#EXTINF:0,035  XXI век
+http://sovok.tv/api.php?channel=41&name=XXI век#
+#EXTINF:0,036  Fox Crime
+http://sovok.tv/api.php?channel=42&name= Fox Crime#
+#EXTINF:0,037  Fox Life
+http://sovok.tv/api.php?channel=43&name=Fox Life #
+#EXTINF:0,038  Комедия тв
+http://sovok.tv/api.php?channel=44&name=Комедия тв #
+#EXTINF:0,039  Unversal
+http://sovok.tv/api.php?channel=46&name=Unversal#
+#EXTINF:0,040  Дискавери World
+http://sovok.tv/api.php?channel=50&name=Дискавери World#
+#EXTINF:0,041  VH-1
+http://sovok.tv/api.php?channel=54&name=VH-1#
+#EXTINF:0,042  Brige TV
+http://sovok.tv/api.php?channel=55&name=Brige TV#
+#EXTINF:0,043  Music Box TV
+http://sovok.tv/api.php?channel=56&name=Music Box TV#
+#EXTINF:0,044  MCM Top
+http://sovok.tv/api.php?channel=57&name=MCM Top#
+#EXTINF:0,045  O2 TV
+http://sovok.tv/api.php?channel=58&name=O2 TV#
+#EXTINF:0,046  Ля - Минор
+http://sovok.tv/api.php?channel=59&name=Ля - Минор#
+#EXTINF:0,047  Music Box TV ру
+http://sovok.tv/api.php?channel=60&name=Music Box TV ру#
+#EXTINF:0,048  RU TV
+http://sovok.tv/api.php?channel=61&name= RU TV#
+#EXTINF:0,049  Шансон ТВ
+http://sovok.tv/api.php?channel=62&name= Шансон ТВ#
+#EXTINF:0,050  Охота и Рыбалка
+http://sovok.tv/api.php?channel=67&name= Охота и Рыбалка#
+#EXTINF:0,051  Юмор Box
+http://sovok.tv/api.php?channel=68&name= Юмор Box#
+#EXTINF:0,052  Авто +
+http://sovok.tv/api.php?channel=69&name=  Авто +#
+#EXTINF:0,053  Евроспорт
+http://sovok.tv/api.php?channel=71&name=  Евроспорт #
+#EXTINF:0,054  Евроспорт 2
+http://sovok.tv/api.php?channel=72&name=  Евроспорт 2#
+#EXTINF:0,055  Спорт 1 HD
+http://sovok.tv/api.php?channel=73&name=  Спорт 1 HD#
+#EXTINF:0,056  КХЛ
+http://sovok.tv/api.php?channel=74&name=  КХЛ#
+#EXTINF:0,057  Виасат спорт
+http://sovok.tv/api.php?channel=75&name=  Виасат спорт#
+#EXTINF:0,058  Русский Экстрим 
+http://sovok.tv/api.php?channel=76&name= Русский Экстрим  #
+#EXTINF:0,059  Drive
+http://sovok.tv/api.php?channel=77&name=   Drive #
+#EXTINF:0,060  Наш Футбол
+http://sovok.tv/api.php?channel=78&name=  Наш Футбол #
+#EXTINF:0,061  Боец
+http://sovok.tv/api.php?channel=79&name=  Боец#
+#EXTINF:0,062   Дисней
+http://sovok.tv/api.php?channel=82&name= Дисней #
+#EXTINF:0,063  Nicelodeon 
+http://sovok.tv/api.php?channel=85&name= Nicelodeon  #
+#EXTINF:0,064  Cartoon Network
+http://sovok.tv/api.php?channel=86&name= Cartoon Network  #
+#EXTINF:0,065  Kids Co
+http://sovok.tv/api.php?channel=87&name=  Kids Co #
+#EXTINF:0,066  Первый Игровой
+http://sovok.tv/api.php?channel=88&name=  Первый Игровой #
+#EXTINF:0,067  Ретро Тв
+http://sovok.tv/api.php?channel=89&name=  Ретро Тв#
+#EXTINF:0,068  Sony TV
+http://sovok.tv/api.php?channel=93&name= Sony TV #
+#EXTINF:0,069  Союз
+http://sovok.tv/api.php?channel=96&name= Союз #
+#EXTINF:0,070  Вопросы и Ответы
+http://sovok.tv/api.php?channel=97&name= Вопросы и Ответы#
+#EXTINF:0,071  Домашние Животные
+http://sovok.tv/api.php?channel=98&name= Домашние Животные#
+#EXTINF:0,072  ZEE TV
+http://sovok.tv/api.php?channel=100&name= ZEE TV#
+#EXTINF:0,073  AXN
+http://sovok.tv/api.php?channel=101&name=  AXN#
+#EXTINF:0,074  Кухня тв
+http://sovok.tv/api.php?channel=102&name= Кухня тв #
+#EXTINF:0,075  Женский мир HD
+http://sovok.tv/api.php?channel=103&name= Женский мир HD#
+#EXTINF:0,076  ТДК
+http://sovok.tv/api.php?channel=104&name= ТДК#
+#EXTINF:0,077  MYzen TV
+http://sovok.tv/api.php?channel=110&name= MYzen TV#
+#EXTINF:0,078  ТНТ
+http://sovok.tv/api.php?channel=113&name= ТНТ#
+#EXTINF:0,079  СТС
+http://sovok.tv/api.php?channel=114&name=  СТС#
+#EXTINF:0,080  ТВЦ
+http://sovok.tv/api.php?channel=115&name= ТВЦ #
+#EXTINF:0,081   Волга
+http://sovok.tv/api.php?channel=116&name=  Волга#
+#EXTINF:0,082   Россия 24
+http://sovok.tv/api.php?channel=118&name=  Россия 24#
+#EXTINF:0,083   Русская Ночь
+http://sovok.tv/api.php?channel=119&name=  Русская Ночь #
+#EXTINF:0,084   Play Boy
+http://sovok.tv/api.php?channel=120&name= Play Boy #
+#EXTINF:0,085   Blue Huster
+http://sovok.tv/api.php?channel=121&name= Blue Huster#
+#EXTINF:0,086   XXL
+http://sovok.tv/api.php?channel=122&name= XXL#
+#EXTINF:0,087   National Geographic  HD
+http://sovok.tv/api.php?channel=123&name=National Geographic  HD#
+#EXTINF:0,088 Кинопоказ  HD
+http://sovok.tv/api.php?channel=131&name=Кинопоказ  HD#
+#EXTINF:0,089 Кинопоказ 2 HD
